@@ -1,0 +1,18 @@
+
+.App{
+    background: grey;
+    height: 100%;
+    width: 100%;
+}
+
+
+.cards-display{
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 4.5rem 0px;
+    background: #24282F;
+    min-height: calc(50vh - 60px);
+}
