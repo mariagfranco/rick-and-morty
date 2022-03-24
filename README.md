@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Rick and Morty characters list
+
+This project is a simple application thats displays the characters from the Rick and Morty TV show. 
+
+The technologies that are being used to build this website are React, TypeScript, Apollo Client. 
+
+The data is being consumed from this API https://rickandmortyapi.com/graphql .
+
+Design is based on the https://rickandmortyapi.com/ . 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
