@@ -2,7 +2,7 @@
 
 This project is a simple application thats displays the characters from the Rick and Morty TV show. 
 
-The technologies that are being used to build this website are React, TypeScript, Apollo Client. 
+The technologies that are being used to build this website are React, TypeScript, Apollo Client and GraphQL Code Generator.
 
 The data is being consumed from this API https://rickandmortyapi.com/graphql .
 
